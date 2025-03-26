@@ -1,0 +1,4 @@
+[submodule "FeferCodeBlog/public"]
+	path = FeferCodeBlog/public
+	url = https://github.com/FeferCode/fefercode.github.io.git
+	branch = main

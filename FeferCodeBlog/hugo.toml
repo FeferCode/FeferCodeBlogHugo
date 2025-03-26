@@ -1,0 +1,4 @@
+baseURL = "https://fefercode.github.io/"
+languageCode = 'en-us'
+title = "FeferCode"
+theme = "hugo-theme-m10c"

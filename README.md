@@ -8,7 +8,14 @@ Theme used in blog:
 2. [themes.gohugo.io](https://themes.gohugo.io/themes/hugo-theme-m10c/)
 
 #### Submodule 
-There is second repo in the project used to deploy generated website. 
+There are two repos as submodules. 
+First one is located in **themes/hugo-theme-m10c** and it's a theme used in the project.
+
+```
+git submodule add -b master git@github.com:FeferCode/hugo-theme-m10c.git themes/hugo-theme-m10c
+```
+
+Second one is in the project used to deploy generated website. 
 All files are generated and stored in **public** folder. 
 Commits created there are related to [fefercode.github.io](https://github.com/FeferCode/fefercode.github.io) repo.
 From this repo [FeferCodeBlog](https://fefercode.github.io) is deployed to github pages.

@@ -2,3 +2,7 @@
 	path = FeferCodeBlog/public
 	url = https://github.com/FeferCode/fefercode.github.io.git
 	branch = main
+[submodule "FeferCodeBlog/themes/hugo-theme-m10c"]
+	path = FeferCodeBlog/themes/hugo-theme-m10c
+	url = git@github.com:FeferCode/hugo-theme-m10c.git
+	branch = master
